@@ -1,1 +1,2 @@
-# Self-Designing-Game
+# synchronousBallMovement
+Ball moving synchronously
